@@ -30,7 +30,8 @@ Frontend:
 1. cd frontend
 2. npm start
 
-Open: http://localhost:3000
+Open in browser after running frontend: http://localhost:3000
+
 
 ## Author
 Nagma Nayak
